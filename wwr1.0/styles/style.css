@@ -1,0 +1,44 @@
+#background {
+    height: 725px;
+    background-color: #d9c2a3;
+}
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+section  {
+    text-align: center;
+}
+section.msg {
+    text-align: center;
+    background-color: #6F7364;
+    color: #ffffff;
+}
+a {
+    color: #d9c2a3;
+}
+footer {
+    background-color: #6F7364;
+    color: #d9c2a3
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+footer p {
+    font-size: 1.2em;
+}    
+footer p a:hover {
+    text-decoration: underline;
+}    
