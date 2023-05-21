@@ -25,7 +25,7 @@ footer {
 }
 
 nav a:hover {
-    background-color: black;
+    background-color: #232C1C;
     color: #d9c2a3;
 }
 .icon {
@@ -41,4 +41,63 @@ footer p {
 }    
 footer p a:hover {
     text-decoration: underline;
-}    
+}  
+
+
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 1em;
+    margin: 25px 10px 0px 10px;
+    
+}
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+    padding: 3%;
+  }
+  body {
+    background-color: #C1BFB5;
+    font-family: Times New Roman, Georgia , Arial, sans-serif;
+    font-size: 22px;
+    margin: 0px;
+    padding: 0;
+}
+h2 {
+    font-family: Brush Script MT, Times New Roman, sans-serif;
+    font-size: 50px;
+    margin: 15px;
+}
+
+h1 {
+    font-family: Georgia, Arial, sans-serif;
+    font-size: 50px;
+    margin: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 15px;
+    margin: 25px 10px 10px 10px;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+ .book:hover {
+    background-color: #484E3F;
+    color: #d9c2a3;
+}
+.card-img {
+    border: 5px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
